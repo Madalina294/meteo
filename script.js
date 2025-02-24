@@ -7,6 +7,8 @@ const locationBtn = document.querySelector("#locationBtn");
 cityForm.addEventListener("submit", onCityFormSubmit);
 locationBtn.addEventListener("click", onLocationBtnClick);
 
+//tessst
+
 async function onCityFormSubmit(event) {
   event.preventDefault();
 
